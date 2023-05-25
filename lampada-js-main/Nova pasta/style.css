@@ -1,0 +1,62 @@
+main{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+div{
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
+
+.desligada{
+   color: black;
+   width:1000px 1000px 1000px 1000px;
+   right: 500px;
+   font-family:cursive
+}
+
+.branca{
+    color: black;
+    width:1000px 1000px 1000px 1000px;
+    right: 500px;
+    font-family:cursive;
+    background-color: white;
+}
+
+.azul{
+    color: black;
+    width: 1000px 1000px 1000px 1000px;
+    right: 500px;
+    font-family:cursive;
+    background-color: blue;
+}
+
+.verde{
+    color: black;
+    width: 1000px 1000px 1000px 1000px;
+    right: 500px;
+    font-family:cursive;
+    background-color: green;
+
+}
+
+.vermelho{
+    color: black;
+    width:1000px 1000px 1000px 1000px;
+    right: 500px;
+    font-family:cursive;
+    background-color: red;
+
+}
+
+.amarelo{
+    color: black;
+    width: 1000px 1000px 1000px 1000px;
+    right: 500px;
+    background-color: yellow;
+    font-family:cursive
+}
